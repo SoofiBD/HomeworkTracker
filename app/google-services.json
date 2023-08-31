@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406392951983",
+    "project_id": "quizapp-dd866",
+    "storage_bucket": "quizapp-dd866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406392951983:android:f21efbaf92b50340c6705a",
+        "android_client_info": {
+          "package_name": "com.example.homeworktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406392951983-g4r11utr2tobik2c2qboeq0rivpl5f1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARu3fzx2Rh_qXN_pfZU14mwR18k0sTnck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406392951983-g4r11utr2tobik2c2qboeq0rivpl5f1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
